@@ -4,7 +4,7 @@ pip3 install rsa
 ```
 
 ```
-git clone https://github.com/RSA-MQTT/demo
+git clone https://github.com/RSA-MQTT/demo.git
 cd demo
 ```
 
